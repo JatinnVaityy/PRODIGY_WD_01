@@ -1,0 +1,285 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300&family=Saira:wght@300&display=swap');
+
+
+.navbar {
+    background-image: url(https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png);
+    width: 100vw;
+    height: 80vh;
+    background-repeat: no-repeat;
+    z-index: -1;
+
+}
+
+.navbar nav {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    color: white;
+
+}
+
+.navbar nav p {
+    color: white;
+
+}
+
+.navbar nav a {
+    color: white;
+    text-decoration: none;
+}
+
+
+.navbar .logo {
+    text-align: center;
+}
+
+.navbar .search {
+    text-align: center;
+}
+
+.navbar nav .login {
+    display: flex;
+    margin-left: 37rem;
+
+}
+
+nav p {
+    margin-inline: 11px;
+    margin-top: 22px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200px;
+}
+
+p:hover {
+
+    cursor: pointer;
+}
+
+.navbar .logo img {
+    width: 20%;
+    margin-top: 14rem;
+}
+
+.navbar .text {
+    text-align: center;
+    color: white;
+    margin-top: 22px;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.poptext {
+
+    text-align: center;
+    color: black;
+    margin-top: 8vh;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.txt p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    text-align: center;
+    color: grey;
+    margin-top: 3vh;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 10vw;
+}
+
+.grey {
+    background: #f2f3f5;
+    height: 60vh;
+    margin-top: 4vh;
+}
+
+.grey img {
+    margin-top: 5vh;
+    height: 25px;
+}
+
+.mlr {
+    margin-left: 13vw;
+    margin-right: 13vw;
+
+    height: 60vh;
+}
+
+.card1 {
+
+    width: 15vw;
+    margin-top: 3vh;
+    height: 30vh;
+}
+
+.heading {
+    font-size: 15px;
+    margin-bottom: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Saira', sans-serif;
+}
+
+.card1 p {
+    font-size: 12px;
+    margin-top: 5px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Saira', sans-serif;
+    color: grey;
+}
+
+.card2 {
+
+    width: 15vw;
+    margin-top: 3vh;
+    height: 30vh;
+}
+
+.heading {
+    font-size: 15px;
+    margin-bottom: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Saira', sans-serif;
+}
+
+.card2 p {
+    font-size: 12px;
+    margin-top: 5px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Saira', sans-serif;
+    color: grey;
+}
+
+.flex {
+    display: flex;
+
+}
+
+p :hover {
+    color: black;
+    font-size: 15px;
+
+}
+
+.card3 {
+
+    width: 15vw;
+    margin-top: 3vh;
+    height: 30vh;
+}
+
+.heading {
+    font-size: 15px;
+    margin-bottom: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Saira', sans-serif;
+}
+
+.card3 p {
+    font-size: 12px;
+    margin-top: 5px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Saira', sans-serif;
+    color: grey;
+}
+
+.card4 {
+
+    width: 15vw;
+    margin-top: 3vh;
+    height: 30vh;
+
+}
+
+.heading {
+    font-size: 15px;
+    margin-bottom: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Saira', sans-serif;
+}
+
+.card4 p {
+    font-size: 12px;
+    margin-top: 5px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Saira', sans-serif;
+    color: grey;
+}
+
+.card4 {
+
+    width: 10vw;
+    margin-top: 3vh;
+    height: 30vh;
+
+}
+
+.heading {
+    font-size: 15px;
+    margin-bottom: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Saira', sans-serif;
+}
+
+.copyrights p {
+    font-size: 15px;
+    margin-top: 5px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Saira', sans-serif;
+    color: grey;
+}
+
+.card1 p :hover {
+    color: black;
+}
+
+
+
+.signupbutton {
+    background-color: transparent;
+    color: white;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+   
+    margin-inline: 11px;
+    margin-top: 22px;
+    font-size: 15px;
+}
+ button .btn btn-success{
+  background-color: red;
+}
+form{
+    margin-left: 5vw;
+    margin-top: vh;
+}
+form button{
+    width: 20vw;
+    
+    background-color: rgb(191, 69, 69);
+    height: 6vh;
+    font-weight: bold;
+    margin-top: 3vh;
+    color: white;
+    margin-right: 1vh;
+}
+.logoimg{
+    display: flex;
+}
+.logoimg img{
+    width: 26vw;
+    height: 12vh;
+    margin-top: 27vh;
+    margin-left: 36vw;
+   
+}
+form{
+    font-family: 'Montserrat', sans-serif;
+}
+nav{
+    display: flex;
+}

@@ -1,0 +1,274 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.box {
+    display: flex;
+    padding-left: 3vw;
+    font-size: 20px;
+    background: white;
+    align-items: center;
+    height: 8vh;
+    width: 20vw;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 10px;
+    border-color: grey;
+    border-style: solid;
+    border-width: 0.5px;
+    margin-top: 5vh;
+
+}
+
+
+.boxes {
+    display: flex;
+    margin-left: 13.5vw;
+    margin-right: 13.5vw;
+    margin-top: 5vh;
+    justify-content: space-between;
+
+}
+
+.boxes2 {
+    display: flex;
+    margin-left: 13.5vw;
+    margin-right: 13.5vw;
+    margin-top: 1vh;
+    justify-content: space-between;
+
+}
+
+.boxes3 {
+    display: flex;
+    margin-left: 13.5vw;
+    margin-right: 13.5vw;
+    margin-top: 1vh;
+    justify-content: space-between;
+
+}
+
+.boxes4 {
+    display: flex;
+    margin-left: 13.5vw;
+    margin-right: 13.5vw;
+    margin-top: 1vh;
+    justify-content: space-between;
+
+}
+
+.boxes5 {
+    display: flex;
+    margin-left: 13.5vw;
+    margin-right: 13.5vw;
+    margin-top: 1vh;
+    justify-content: space-between;
+
+}
+
+.boxes6 {
+    display: flex;
+    margin-left: 13.5vw;
+    margin-right: 13.5vw;
+    margin-top: 1vh;
+    justify-content: space-between;
+
+}
+
+.boxes7 {
+    display: flex;
+    margin-left: 13.5vw;
+    margin-right: 13.5vw;
+    margin-top: 1vh;
+    justify-content: space-between;
+
+}
+
+.boxes8 {
+    display: flex;
+    margin-left: 13.5vw;
+    margin-right: 13.5vw;
+    margin-top: 1vh;
+    justify-content: space-between;
+
+}
+
+.boxes9 {
+    display: flex;
+    margin-left: 13.5vw;
+    margin-right: 13.5vw;
+    margin-top: 1vh;
+    justify-content: space-between;
+
+}
+
+.boxes10 {
+    display: flex;
+    margin-left: 13.5vw;
+    margin-right: 13.5vw;
+    margin-top: 1vh;
+    justify-content: space-between;
+
+}
+
+.boxes11 {
+    display: flex;
+    margin-left: 13.5vw;
+    margin-right: 13.5vw;
+    margin-top: 1vh;
+    justify-content: space-between;
+
+}
+
+.boxes12 {
+    display: flex;
+    margin-left: 13.5vw;
+    margin-right: 13.5vw;
+    margin-top: 1vh;
+    justify-content: space-between;
+
+}
+
+.boxes13 {
+    display: flex;
+    margin-left: 13.5vw;
+    margin-right: 13.5vw;
+    margin-top: 1vh;
+    justify-content: space-between;
+
+}
+
+.boxes14 {
+    display: flex;
+    margin-left: 13.5vw;
+    margin-right: 13.5vw;
+    margin-top: 1vh;
+    justify-content: space-between;
+
+}
+
+.boxes15 {
+    display: flex;
+    margin-left: 13.5vw;
+    margin-right: 13.5vw;
+    margin-top: 1vh;
+    justify-content: space-between;
+
+}
+
+.boxes16 {
+    display: flex;
+    margin-left: 13.5vw;
+    margin-right: 13.5vw;
+    margin-top: 1vh;
+    justify-content: space-between;
+
+}
+
+.boxes17 {
+    display: flex;
+    margin-left: 13.5vw;
+    margin-right: 13.5vw;
+    margin-top: 1vh;
+    justify-content: space-between;
+
+}
+
+.boxes18 {
+    display: flex;
+    margin-left: 13.5vw;
+    margin-right: 13.5vw;
+    margin-top: 1vh;
+    justify-content: space-between;
+
+}
+
+.boxes19 {
+    display: flex;
+    margin-left: 13.5vw;
+    margin-right: 13.5vw;
+    margin-top: 1vh;
+    justify-content: space-between;
+
+}
+
+.boxes :hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxes2 :hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxes :hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxes3 :hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxes4 :hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxes5 :hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxes6 :hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxes7 :hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxes8 :hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxes9 :hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxes10 :hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxes11 :hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxes12 :hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxes13 :hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxes14 :hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxes15 :hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxes16 :hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxes17 :hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxes18 :hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxes19 :hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
